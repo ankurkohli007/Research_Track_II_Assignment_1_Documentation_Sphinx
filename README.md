@@ -54,11 +54,11 @@ Figure above shows that *Separate source and build directories (y/n) [n]: n*.
 
 **Step 2:** Now, press entre write the ***Project Name, Author Name, Project Release***. as shown in figure below.
 
-![alt text](Images/step2.png)
+![alt text](ImagesDocs/step2.png)
 
 **Step 3:** After entering the required details, now choose the language in which documentation to be prepared. 
 
-![alt text](Images/step3.png)
+![alt text](ImagesDocs/step3.png)
 
 Figure above shows the language choosen for Documentation.
 
@@ -128,7 +128,7 @@ doxywizard
 ```
 Now, ***Doxygen GUI*** will open as shown in figure below:
 
-![alt text](Images/doxyGUI.png)
+![alt text](ImagesDocs/doxyGUI.png)
 
 Now choose the ***working directory from which doxygen will run*** in *Step 1* as shown in figure above. After choosing the folder path, Provide some information about the project you are documenting such as: **Project Name, Project synopsis, Project version or id, Project logo** (if any), and so on. After giving the information , now ***specify the directory to scan for source code*** in *Step 2* which means add the source code directory. Mark the box for ***scan recursively***. After this, ***specify the directory where doxygen should put the generated doucmentation*** i.e. ***Destination directory*** as shown in the figure above. In our case, desination directory is *_build*. Save this as ***Doxygen.in***.
 
@@ -149,7 +149,7 @@ make html
 ```
 This command will create ***indext.html*** file which is in folder *_build/html*. 
 
-![alt text](Images/htmlpage.png)
+![alt text](ImagesDocs/htmlpage.png)
 
 Figure above shows the *html page* of the documentation's created. 
 
@@ -159,28 +159,28 @@ Now, the generated *HTML* files, inside *_build/html* folder, chevk the detailed
 
 Master Control Module, detailed about the master node. 
 
-![alt text](Images/mastercontrol.png) 
+![alt text](ImagesDocs/mastercontrol.png) 
 
 Figure above shows the HTML page about the *master_control script*.
 
 
 Autonomous Drive Module, detailed about the robot's operation 1 node. 
 
-![alt text](Images/autonomousdrive.png) 
+![alt text](ImagesDocs/autonomousdrive.png) 
 
 Figure above shows the HTML page about the *autonomous_drive script*. Also, get the detailed of the scripts by clicling on source from the command given *scripts.autonomous_drive.CallBack(status, result)[source]*.
 
 
 Obstacle Avoidance Module, detailed about the robot's operation 2 node. 
 
-![alt text](Images/obstacleavoidance.png) 
+![alt text](ImagesDocs/obstacleavoidance.png) 
 
 Figure above shows the HTML page about the *obstacle_avoidance script*.
 
 
 Teleop Operation Module, detailed about the robot's operation 3 node. 
 
-![alt text](Images/teleooperation.png) 
+![alt text](ImagesDocs/teleooperation.png) 
 
 Figure above shows the HTML page about the *teleop_operation script*.
 
