@@ -48,7 +48,7 @@ sphinx-quickstart
 ```
 After running the command, accept the defaults. It’ll look something like this: 
 
-![alt text](Images/step1.png)
+![alt text](ImagesDocs/step1.png)
 
 Figure above shows that *Separate source and build directories (y/n) [n]: n*. 
 
