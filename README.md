@@ -99,7 +99,7 @@ After adding extensions, now make changes in *line 64* of conf.py file such as:
 highlight_language = 'c++'
 source_suffix = '.rst'
 master_doc = 'index'
-html_theme = 'sphinx_rtd_theme
+html_theme = 'sphinx_rtd_theme'
 ```
 This will set the ReadTheDocs theme, and let sphinx find the source code.
 
