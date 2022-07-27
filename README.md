@@ -193,7 +193,7 @@ Use GitHub to publish your doucmentation online. For this, follow the steps give
 * Create a folder docs, containing documentation.
 * In case of Sphinx documentation, add an empty file, in the docs folder, named ".nojekyll" (this is needed for using
 the sphinx layout).
-*Finally, go to Settings of GitHub -> Pages, and activate an *url* which may be used to visualize the documentation.
+* Finally, go to Settings of GitHub -> Pages, and activate an *url* which may be used to visualize the documentation.
 
 ## Outcome
 
