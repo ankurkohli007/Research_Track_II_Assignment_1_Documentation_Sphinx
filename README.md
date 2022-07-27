@@ -72,7 +72,7 @@ import subprocess
 import sys
 sys.path.insert(0, os.path.abspath('.'))
 subprocess.call('doxygen Doxyfile.in', shell=True)
--- Project information -----------------------------------------------------
+#-- Project information -----------------------------------------------------
 ```
 This is needed to run doxygen, generating an xml file which will be used by sphinx for creating its own documentation, and to make the path absolute, so to be able to find all source code.
 
