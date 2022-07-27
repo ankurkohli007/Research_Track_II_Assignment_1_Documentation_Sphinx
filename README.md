@@ -64,7 +64,7 @@ Figure above shows the language choosen for Documentation.
 
 ## Documentation Preparation
 
-After intallation, now you are ready to create documentation. After execution of ```sphinx-quickstart```, you can see ***conf.py*** file in your given directory path, which still needs to be updated. Now add the required things as given below: 
+After intallation, now you are ready to create documentation. After execution of ```sphinx-quickstart```, you can see ***conf.py*** file in your given directory path, which still needs to be updated. Now add the required things as given below from *line 13*: 
 
 ```
 import os
