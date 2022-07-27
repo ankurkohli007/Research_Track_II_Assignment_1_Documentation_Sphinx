@@ -197,7 +197,7 @@ the sphinx layout).
 
 ## Outcome
 
-TO view the documentation visit the link given below: 
+To view the documentation visit the link given below: 
 
 https://ankurkohli007.github.io/Research_Track_II_Assignment_1_Documentation_Sphinx/ 
 
