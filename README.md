@@ -186,7 +186,7 @@ Figure above shows the HTML page about the *teleop_operation script*.
 
 ## GitHub Page
 
-Finally, update your documentation online on **GitHub**, so that it could be visualized by people using our repository.
+Finally, update your documentation online on **GitHub**, so that it could be visualized by people using repository.
 
 Use GitHub to publish your doucmentation online. For this, follow the steps given below:
 
