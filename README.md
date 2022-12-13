@@ -196,7 +196,7 @@ the sphinx layout).
 * Lastly, go to Settings of GitHub -> Pages.
 * On Pages section, make changes under GitHub Pages -> Sources. Change *branch* from none to ***main***, and */root* folder to ***/docs***. Finally, save the settings and activate an *url* which may be used to visualize the documentation.
 
-## Outcome
+## Final Outcome
 
 To view the documentation visit the link given below: 
 
