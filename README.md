@@ -165,28 +165,37 @@ Now, the generated *HTML* files, inside *_build/html* folder, chevk the detailed
 
 Master Control Module, detailed about the master node. 
 
-![alt text](ImagesDocs/mastercontrol.png) 
+<p align="center">
+  <img width="1000" height="260" src="https://github.com/ankurkohli007/Research_Track_II_Assignment_1_Documentation_Sphinx/blob/7b64ee84a51501e4817ffe9b507d87b40fefa762/ImagesDocs/mastercontrol.png">
+</p>
+ 
 
 Figure above shows the HTML page about the *master_control script*.
 
 
-Autonomous Drive Module, detailed about the robot's operation 1 node. 
+Autonomous Drive Module, detailed about the robot's operation 1 node.
 
-![alt text](ImagesDocs/autonomousdrive.png) 
+<p align="center">
+  <img width="1000" height="260" src="https://github.com/ankurkohli007/Research_Track_II_Assignment_1_Documentation_Sphinx/blob/7b64ee84a51501e4817ffe9b507d87b40fefa762/ImagesDocs/autonomousdrive.png">
+</p>
 
 Figure above shows the HTML page about the *autonomous_drive script*. Also, get the detailed of the scripts by clicling on source from the command given *scripts.autonomous_drive.CallBack(status, result)[source]*.
 
 
 Obstacle Avoidance Module, detailed about the robot's operation 2 node. 
 
-![alt text](ImagesDocs/obstacleavoidance.png) 
+<p align="center">
+  <img width="1000" height="260" src="https://github.com/ankurkohli007/Research_Track_II_Assignment_1_Documentation_Sphinx/blob/7b64ee84a51501e4817ffe9b507d87b40fefa762/ImagesDocs/obstacleavoidance.png">
+</p>
 
 Figure above shows the HTML page about the *obstacle_avoidance script*.
 
 
 Teleop Operation Module, detailed about the robot's operation 3 node. 
 
-![alt text](ImagesDocs/teleooperation.png) 
+<p align="center">
+  <img width="1000" height="260" src="https://github.com/ankurkohli007/Research_Track_II_Assignment_1_Documentation_Sphinx/blob/7b64ee84a51501e4817ffe9b507d87b40fefa762/ImagesDocs/teleooperation.png">
+</p>
 
 Figure above shows the HTML page about the *teleop_operation script*.
 
