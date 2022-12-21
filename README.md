@@ -56,11 +56,15 @@ Figure above shows that *Separate source and build directories (y/n) [n]: n*.
 
 **Step 2:** Now, press entre write the ***Project Name, Author Name, Project Release***. as shown in figure below.
 
-![alt text](ImagesDocs/step2.png)
+<p align="center">
+  <img width="760" height="260" src="https://github.com/ankurkohli007/Research_Track_II_Assignment_1_Documentation_Sphinx/blob/7b64ee84a51501e4817ffe9b507d87b40fefa762/ImagesDocs/step2.png">
+</p>
 
 **Step 3:** After entering the required details, now choose the language in which documentation to be prepared. 
 
-![alt text](ImagesDocs/step3.png)
+<p align="center">
+  <img width="760" height="260" src="https://github.com/ankurkohli007/Research_Track_II_Assignment_1_Documentation_Sphinx/blob/7b64ee84a51501e4817ffe9b507d87b40fefa762/ImagesDocs/step3.png">
+</p>
 
 Figure above shows the language choosen for Documentation.
 
