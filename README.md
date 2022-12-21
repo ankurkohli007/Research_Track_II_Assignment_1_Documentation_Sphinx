@@ -176,7 +176,7 @@ Figure above shows the HTML page about the *master_control script*.
 Autonomous Drive Module, detailed about the robot's operation 1 node.
 
 <p align="center">
-  <img width="1000" height="260" src="https://github.com/ankurkohli007/Research_Track_II_Assignment_1_Documentation_Sphinx/blob/7b64ee84a51501e4817ffe9b507d87b40fefa762/ImagesDocs/autonomousdrive.png">
+  <img width="1000" height="760" src="https://github.com/ankurkohli007/Research_Track_II_Assignment_1_Documentation_Sphinx/blob/7b64ee84a51501e4817ffe9b507d87b40fefa762/ImagesDocs/autonomousdrive.png">
 </p>
 
 Figure above shows the HTML page about the *autonomous_drive script*. Also, get the detailed of the scripts by clicling on source from the command given *scripts.autonomous_drive.CallBack(status, result)[source]*.
@@ -185,7 +185,7 @@ Figure above shows the HTML page about the *autonomous_drive script*. Also, get 
 Obstacle Avoidance Module, detailed about the robot's operation 2 node. 
 
 <p align="center">
-  <img width="1000" height="260" src="https://github.com/ankurkohli007/Research_Track_II_Assignment_1_Documentation_Sphinx/blob/7b64ee84a51501e4817ffe9b507d87b40fefa762/ImagesDocs/obstacleavoidance.png">
+  <img width="1000" height="760" src="https://github.com/ankurkohli007/Research_Track_II_Assignment_1_Documentation_Sphinx/blob/7b64ee84a51501e4817ffe9b507d87b40fefa762/ImagesDocs/obstacleavoidance.png">
 </p>
 
 Figure above shows the HTML page about the *obstacle_avoidance script*.
@@ -194,7 +194,7 @@ Figure above shows the HTML page about the *obstacle_avoidance script*.
 Teleop Operation Module, detailed about the robot's operation 3 node. 
 
 <p align="center">
-  <img width="1000" height="260" src="https://github.com/ankurkohli007/Research_Track_II_Assignment_1_Documentation_Sphinx/blob/7b64ee84a51501e4817ffe9b507d87b40fefa762/ImagesDocs/teleooperation.png">
+  <img width="1000" height="760" src="https://github.com/ankurkohli007/Research_Track_II_Assignment_1_Documentation_Sphinx/blob/7b64ee84a51501e4817ffe9b507d87b40fefa762/ImagesDocs/teleooperation.png">
 </p>
 
 Figure above shows the HTML page about the *teleop_operation script*.
