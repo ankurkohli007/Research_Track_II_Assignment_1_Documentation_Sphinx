@@ -82,7 +82,7 @@ subprocess.call('doxygen Doxyfile.in', shell=True)
 ```
 This is needed to run doxygen, generating an xml file which will be used by sphinx for creating its own documentation, and to make the path absolute, so to be able to find all source code.
 
-Now add the given below extenions in *conf.py*. 
+Now add the given below extenions at *line 33* in *conf.py*. 
 
 ```
 extensions = [
