@@ -147,7 +147,7 @@ Module Name
 .. automodule:: scripts.script_name
    :members:
 ```
-Note: 
+* Note: 
      <ul>
      <li>Module names depends on the nodes that designed during development of the code.</li>
      <li>Also, in automodule write scripts that designed.</li>
