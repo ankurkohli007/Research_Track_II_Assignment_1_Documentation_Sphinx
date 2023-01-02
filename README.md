@@ -149,8 +149,8 @@ Module Name
 ```
 Note: 
       <ul>
-      <li> Module names depends on the nodes that designed during development of the code. </li>
-      <li> Also, in automodule write scripts that designed. </li>
+      <li>Module names depends on the nodes that designed during development of the code.</li>
+      <li>Also, in automodule write scripts that designed.</li>
       </ul>
 
 Now run the command:
