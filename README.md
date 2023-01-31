@@ -139,7 +139,7 @@ sudo apt-get install –y doxygen
 sudo apt-get install doxygen-gui
 ```
 
-*On Ubuntu (and on the Docker image, but without sudo)
+#On Ubuntu (and on the Docker image, but without sudo).
 
 Now, ***Doxygen GUI*** will open as shown in figure below:
 
