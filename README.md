@@ -132,6 +132,15 @@ After making the changes in *conf.py* file, run the command given below for ***D
 ```
 doxywizard
 ```
+**Note:** If Doxygen is not installed than installed by using the the commands below:
+
+```
+sudo apt-get install –y doxygen
+sudo apt-get install doxygen-gui
+```
+
+*On Ubuntu (and on the Docker image, but without sudo)
+
 Now, ***Doxygen GUI*** will open as shown in figure below:
 
 ![alt text](ImagesDocs/doxyGUI.png)
