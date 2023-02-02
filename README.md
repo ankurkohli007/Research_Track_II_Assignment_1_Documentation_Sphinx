@@ -222,7 +222,7 @@ Use GitHub to publish your doucmentation online. For this, follow the steps give
 
 ***Note:*** To add files in the *docs* folder, copy the ***html*** & ***latex*** folder drom ***_build*** folder. After that, copy all the files from html & latex folder and delete the empty folder.
 
-* In case of Sphinx documentation, add an empty file, in the docs folder, named ".nojekyll" (this is needed for using
+* In case of Sphinx documentation, add an empty file, in the docs folder, named **".nojekyll"** (this is needed for using
 the sphinx layout).
 * Lastly, go to Settings of ***GitHub repository*** (for which you creayed documentation and need to create website link for the same) -> ***Pages***.
 * On Pages section, make changes under GitHub Pages -> Branch. Change *branch* from none to ***main***, and */root* folder to ***/docs***. Finally, save the settings and activate an *url* which may be used to visualize the documentation.
