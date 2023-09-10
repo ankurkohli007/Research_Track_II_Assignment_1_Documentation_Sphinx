@@ -147,6 +147,8 @@ Now, ***Doxygen GUI*** will open as shown in figure below:
 
 Now choose the ***working directory from which doxygen will run*** in *Step 1* as shown in figure above. After choosing the folder path, Provide some information about the project you are documenting such as: **Project Name, Project synopsis, Project version or id, Project logo** (if any), and so on. After giving the information , now ***specify the directory to scan for source code*** in *Step 2* which means add the source code directory. Mark the box for ***scan recursively***. After this, ***specify the directory where doxygen should put the generated doucmentation*** i.e. ***Destination directory*** as shown in the figure above. In our case, desination directory is *_build*. Save this as ***Doxygen.in***.
 
+* Note: As aforementioned, in Step 1 choose the working directory it means choose the default directory where your project is based. Also, in step 2 choose the same directory. But in step 3 choose the directory as mentioned above. In the **Step 2** mark the check box i.e. **scan recursively**.
+
 Finally, modify the ***index.rst*** script, which will be used by sphinx (together with
 conf.py and (indirectly) with Doxygen.in, to build our documentation). After *line 22* add 
 
